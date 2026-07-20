@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-&nbsp; &nbsp;Hi, I'm a Frontend Developer from Uzbekistan. Experienced Frontend Developer with over 5 years of expertise in crafting high-quality Fintech projects. Passionate about delivering exceptional results, I excel in creating websites of any complexity with precision and efficiency, always meeting deadlines. I am a fast learner, continuously advancing my skills to stay at the forefront of web development. Outside of work, I enjoy swimming and exploring the mountains through hiking
+&nbsp; &nbsp;Hi, I'm a Frontend Developer from Uzbekistan. Experienced Frontend Developer with over 6 years of expertise in crafting high-quality Fintech projects. Passionate about delivering exceptional results, I excel in creating websites of any complexity with precision and efficiency, always meeting deadlines. I am a fast learner, continuously advancing my skills to stay at the forefront of web development. Outside of work, I enjoy swimming and exploring the mountains through hiking
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbos-coder&theme=vue-dark&show_icons=true&locale=en" alt="Abbos-coder" />
